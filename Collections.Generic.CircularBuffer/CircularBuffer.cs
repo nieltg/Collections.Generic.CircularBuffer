@@ -30,7 +30,6 @@ namespace Collections.Generic
 
     private int _capacity;
 
-    [NonSerialized]
     private object _syncRoot;
 
     #endregion
