@@ -6,7 +6,7 @@ using System.Threading;
 // ReSharper disable AutoPropertyCanBeMadeGetOnly.Global
 // ReSharper disable CheckNamespace
 
-namespace Cyotek.Collections.Generic
+namespace Collections.Generic
 {
   /// <summary>
   /// Represents a first-in, first-out collection of objects using a fixed buffer and automatic overwrite support.
